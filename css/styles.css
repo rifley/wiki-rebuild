@@ -1,0 +1,17 @@
+#side {
+  width: 150px;
+  height: 100%;
+  border: 2px solid black;
+}
+
+nav.top-bar a {
+  padding-left: 10px;
+}
+
+nav.top-bar {
+  float: right;
+}
+
+.nav-right {
+  float: right;
+}
