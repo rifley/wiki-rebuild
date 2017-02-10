@@ -1,7 +1,12 @@
 #side {
-  width: 150px;
+  width: 200px;
   height: 100%;
   border: 2px solid black;
+  background-color: #f6f6f6;
+}
+
+#logo {
+
 }
 
 nav.top-bar a {
@@ -14,4 +19,42 @@ nav.top-bar {
 
 .nav-right {
   float: right;
+}
+
+.welcome {
+
+}
+
+.welcome-bullet ul{
+  float: right;
+}
+
+.welcome-bullet span{
+  font-weight: bold;
+
+
+}
+
+
+#test2 {
+  background-color: #f5faff;
+}
+
+#test {
+  background-color: #f5fffa;
+  border: solid 1px purple;
+}
+
+.img-left {
+  float:left;
+  padding: 10px;
+}
+
+.float-right {
+  text-align: right;
+}
+
+.img-right {
+  float: right;
+  padding: 10px;
 }
